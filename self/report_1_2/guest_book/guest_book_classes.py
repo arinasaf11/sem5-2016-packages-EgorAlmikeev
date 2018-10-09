@@ -26,7 +26,7 @@ class Guest:
 
     def __str__(self):
         import json
-        return json.dumps(self.json_data)
+        return json.dumps(self.json_data, ensure_ascii=False, indent=4)
 
 
 class GuestBook:
