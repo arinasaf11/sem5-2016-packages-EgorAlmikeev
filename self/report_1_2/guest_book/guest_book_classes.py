@@ -1,6 +1,3 @@
-import os
-
-
 class JSONReadWritter:
     @staticmethod
     def read_file(file_path: str):
