@@ -1,4 +1,4 @@
-# sem5-2016-packages
+# sem5-2016-packages :+1:
 
 [Ссылка для создания своего репозитория по данному заданию](https://classroom.github.com/assignment-invitations/9a49ac089449c3691bbd4fa5372ef605/)
 
